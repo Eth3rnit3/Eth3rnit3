@@ -30,7 +30,7 @@ Feel free to reach out or collaborate on projects. You can find me here on GitHu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eth3rnit3&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eth3rnit3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=eth3rnit3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eth3rnit3&icon=0&color=0)](https://visitcount.itsvg.in)
