@@ -18,7 +18,7 @@ I'm continually exploring tools and frameworks that enhance development efficien
 - **Tools:** Docker, VSCode, Nginx
 
 ## 📫 Let's Connect
-Feel free to reach out or collaborate on projects. You can find me here on GitHub or at [@buyco](https://github.com/buyco) for professional endeavors.
+Feel free to reach out or collaborate on projects. You can find me here on GitHub or at [@buyco](https://github.com/buyco).
 
 
 # 💻 Tech Stack:
